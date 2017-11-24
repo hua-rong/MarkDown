@@ -65,6 +65,9 @@ console.log(a);
 
 好好学习，努力向上。
 
+老是，出现错误，好麻烦
+
+
 <!---------以下是本文档中用到的链接----------->
 [百度]: http://www.baidu.com  
 [baidu]:http://www.baidu.com  
