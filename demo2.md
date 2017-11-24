@@ -63,6 +63,8 @@ var a = 10;
 console.log(a);
 ```
 
+好好学习，努力向上。
+
 <!---------以下是本文档中用到的链接----------->
 [百度]: http://www.baidu.com  
 [baidu]:http://www.baidu.com  
