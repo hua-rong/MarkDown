@@ -9,4 +9,9 @@ function b(x){
 }
 
 3333
+
+function c(x){
+	console.log(x);
+}
+
 4444
